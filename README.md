@@ -1,2 +1,2 @@
-# SuperAI_HW
-home work of Super AI Engineer L1
+# Super AI Engineer L1
+Super AI Engineer L1 2020
